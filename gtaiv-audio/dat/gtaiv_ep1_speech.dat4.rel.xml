@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat4>
+ <Version value="23982542" />
+ <ContainerPaths>
+  <Item>GTAIV_EP1\JOHNNY</Item>
+  <Item>GTAIV_EP1\JOHNNY_EXTRAS</Item>
+  <Item>GTAIV_EP1\JOHNNY_ANGRY_1</Item>
+  <Item>GTAIV_EP1\JOHNNY_ANGRY_2</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_1</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_2</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_3</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_4</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_5</Item>
+  <Item>GTAIV_EP1\JOHNNY_NORMAL_6</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="ByteArray">
+   <Name>16e2cd5</Name> <!-- johnny pain_low -->
+   <RawData>4B 00 00</RawData> <!-- 75 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f331785a</Name> <!-- johnny pain_high -->
+   <RawData>4B 00 00</RawData> <!-- 75 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>63c320e7</Name> <!-- johnny death_low -->
+   <RawData>1E 00 00</RawData> <!-- 30 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d97c245a</Name> <!-- johnny death_high -->
+   <RawData>1E 00 00</RawData> <!-- 30 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c3439855</Name> <!-- johnny_extras fuck_fall -->
+   <RawData>0F 01 00</RawData> <!-- 15 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c02dfbd9</Name> <!-- johnny_extras grunt_climb_easy_up -->
+   <RawData>1B 01 00</RawData> <!-- 27 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6d6fbd2d</Name> <!-- johnny_extras grunt_climb_over -->
+   <RawData>18 01 00</RawData> <!-- 24 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b06eb4c</Name> <!-- johnny_extras grunt_climb_hard_up -->
+   <RawData>0C 01 00</RawData> <!-- 12 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f535f0b6</Name> <!-- johnny_extras inhale -->
+   <RawData>0A 01 00</RawData> <!-- 10 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e8bdf3be</Name> <!-- johnny_extras high_fall -->
+   <RawData>0F 01 00</RawData> <!-- 15 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fd5155d1</Name> <!-- johnny_extras cough -->
+   <RawData>1A 01 00</RawData> <!-- 26 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>948f87dc</Name> <!-- johnny_extras on_fire -->
+   <RawData>10 01 00</RawData> <!-- 16 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8c5fc208</Name> <!-- johnny_angry crash_generic -->
+   <RawData>22 02 00</RawData> <!-- 34 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3c9e32c1</Name> <!-- johnny_angry taxi_step_on_it -->
+   <RawData>06 02 00</RawData> <!-- 06 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>572540aa</Name> <!-- johnny_angry jacking_car_fem -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3265963a</Name> <!-- johnny_angry jacked_generic -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>61756f39</Name> <!-- johnny_angry jacking_bike -->
+   <RawData>19 02 00</RawData> <!-- 25 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6ae664a8</Name> <!-- johnny_angry jacking_car_dead -->
+   <RawData>0A 02 00</RawData> <!-- 10 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e3b6c0c1</Name> <!-- johnny_angry crash_car -->
+   <RawData>19 02 00</RawData> <!-- 25 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>334e6686</Name> <!-- johnny_angry chased -->
+   <RawData>1E 02 00</RawData> <!-- 30 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>73dc3f32</Name> <!-- johnny_angry car_hit_ped -->
+   <RawData>19 02 00</RawData> <!-- 25 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>89d2e43d</Name> <!-- johnny_angry jacking_car_male -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7cb940f6</Name> <!-- johnny_angry jacking_lost_bike -->
+   <RawData>08 02 00</RawData> <!-- 08 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d71c3f4</Name> <!-- johnny_angry killed_all -->
+   <RawData>0F 02 00</RawData> <!-- 15 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fbf73571</Name> <!-- johnny_angry jacking_generic -->
+   <RawData>0C 02 00</RawData> <!-- 12 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>68e6be14</Name> <!-- johnny_angry arrested -->
+   <RawData>09 02 00</RawData> <!-- 09 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f8a7364c</Name> <!-- johnny_angry jacking_order -->
+   <RawData>0A 02 00</RawData> <!-- 10 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>921853fd</Name> <!-- johnny_angry knock_over_ped -->
+   <RawData>0F 02 00</RawData> <!-- 15 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ebc7ee4e</Name> <!-- johnny_angry subway_journey_ask -->
+   <RawData>03 02 00</RawData> <!-- 03 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>96fbfdb7</Name> <!-- johnny_angry jacked_car -->
+   <RawData>0A 03 00</RawData> <!-- 10 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4a6c7c4c</Name> <!-- johnny_angry in_cover_dodge_bullets -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2021077b</Name> <!-- johnny_angry start_car_panic -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1812f152</Name> <!-- johnny_angry solicit_bum_resp_neg -->
+   <RawData>08 03 00</RawData> <!-- 08 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3f73c8bc</Name> <!-- johnny_angry solicit_hooker_resp_pos_car -->
+   <RawData>06 03 00</RawData> <!-- 06 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a16b5e6</Name> <!-- johnny_angry messing_with_phone -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6855e4a1</Name> <!-- johnny_angry generic_insult -->
+   <RawData>19 03 00</RawData> <!-- 25 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a868a93</Name> <!-- johnny_angry search_body_take_item -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>351cf545</Name> <!-- johnny_angry stay_down -->
+   <RawData>14 03 00</RawData> <!-- 20 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>badfc51b</Name> <!-- johnny_angry pull_gun -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d799f5d8</Name> <!-- johnny_angry mission_fail_rage -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b0e466b</Name> <!-- johnny_angry solicit_hooker_resp_pos_foot -->
+   <RawData>06 03 00</RawData> <!-- 06 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dafb2540</Name> <!-- johnny_angry generic_curse -->
+   <RawData>07 03 00</RawData> <!-- 07 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>21ab9606</Name> <!-- johnny_angry hurry_up -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3cda87c2</Name> <!-- johnny_angry shoot -->
+   <RawData>28 03 00</RawData> <!-- 40 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>39f433e3</Name> <!-- johnny_angry taxi_change_dest -->
+   <RawData>0A 03 00</RawData> <!-- 10 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6ff1af26</Name> <!-- johnny_angry drugs_buy -->
+   <RawData>0A 03 00</RawData> <!-- 10 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6780d888</Name> <!-- johnny_angry solicit_hooker_resp_neg -->
+   <RawData>06 03 00</RawData> <!-- 06 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a13b1499</Name> <!-- johnny_angry fight -->
+   <RawData>1E 03 00</RawData> <!-- 30 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ffc583e0</Name> <!-- johnny_angry melee_knock_down -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d148017d</Name> <!-- johnny_angry solicit_bum_resp_pos -->
+   <RawData>08 03 00</RawData> <!-- 08 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fd2674bf</Name> <!-- johnny_normal air_hockey_score_med -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9bca92b1</Name> <!-- johnny_normal arm_wrestling_groan_med -->
+   <RawData>13 04 00</RawData> <!-- 19 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e6605df7</Name> <!-- johnny_normal arm_wrestle_lost -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cf76d7ca</Name> <!-- johnny_normal arm_wrestling_point_of_victory -->
+   <RawData>0C 04 00</RawData> <!-- 12 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f937fa6c</Name> <!-- johnny_normal air_hockey_lose -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c97c1124</Name> <!-- johnny_normal arm_wrestling_taunt_resp -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f4c0adf4</Name> <!-- johnny_normal air_hockey_i_serve -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>25f57c86</Name> <!-- johnny_normal air_hockey_score_slow -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f476ce2</Name> <!-- johnny_normal air_hockey_you_serve -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9e929bc</Name> <!-- johnny_normal abuse_cops -->
+   <RawData>0C 04 00</RawData> <!-- 12 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>688a0e99</Name> <!-- johnny_normal arm_wrestling_taunt_prelim -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>98f9dc73</Name> <!-- johnny_normal arm_wrestling_taunt -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e88bde3b</Name> <!-- johnny_normal arm_wrestling_point_of_defeat -->
+   <RawData>0C 04 00</RawData> <!-- 12 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ca6764fd</Name> <!-- johnny_normal air_hockey_let_puck_in_fast -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>371edcd9</Name> <!-- johnny_normal air_hockey_score_fast -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5279f954</Name> <!-- johnny_normal arm_wrestle_won -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>60e18507</Name> <!-- johnny_normal arm_wrestling_groan_low -->
+   <RawData>14 04 00</RawData> <!-- 20 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>79cd5da9</Name> <!-- johnny_normal arm_wrestling_taunt_prelim_resp -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f6112181</Name> <!-- johnny_normal air_hockey_taunt -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b5b7c67b</Name> <!-- johnny_normal jacking_lost_bike -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6483138</Name> <!-- johnny_normal air_hockey_let_puck_in_med -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bfae2509</Name> <!-- johnny_normal after_sex -->
+   <RawData>0C 04 00</RawData> <!-- 12 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b92bc41d</Name> <!-- johnny_normal arm_wrestling_groan_high -->
+   <RawData>14 04 00</RawData> <!-- 20 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>71468a81</Name> <!-- johnny_normal air_hockey_serve_hurry_up_resp -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>915a86b5</Name> <!-- johnny_normal arm_wrestling_defeat_is_close -->
+   <RawData>0C 04 00</RawData> <!-- 12 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>906f16d9</Name> <!-- johnny_normal air_hockey_win -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>97198050</Name> <!-- johnny_normal air_hockey_let_puck_in_slow -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9920c647</Name> <!-- johnny_normal abuse_generic_biker_ped -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>375d3214</Name> <!-- johnny_normal air_hockey_taunt_resp -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>40062a79</Name> <!-- johnny_normal bowling_strike -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8f96a3b</Name> <!-- johnny_normal bowling_boast -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ff9663fa</Name> <!-- johnny_normal johnny_curse_billy_normal -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7af0c683</Name> <!-- johnny_normal arm_wrestling_victory_is_close -->
+   <RawData>0C 05 00</RawData> <!-- 12 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9c3cc3ee</Name> <!-- johnny_normal cards_higher_sure -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cdd0306c</Name> <!-- johnny_normal bowling_turkey -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bad2b9bf</Name> <!-- johnny_normal car_hit_ped -->
+   <RawData>14 05 00</RawData> <!-- 20 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3c8fc910</Name> <!-- johnny_normal cards_lower -->
+   <RawData>0C 05 00</RawData> <!-- 12 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>27ffcad1</Name> <!-- johnny_normal cards_lose -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b6fa92f3</Name> <!-- johnny_normal arm_wrestling_tired -->
+   <RawData>14 05 00</RawData> <!-- 20 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dc36440</Name> <!-- johnny_normal bowling_player_wins -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>637929ff</Name> <!-- johnny_normal bike_hit_ped -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5a89b4b6</Name> <!-- johnny_normal cards_higher_reckless -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3ddc3e33</Name> <!-- johnny_normal bowling_player_loses -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9ac6fa50</Name> <!-- johnny_normal biker_clips_anything -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b0260174</Name> <!-- johnny_normal bike_jump -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1ea12a25</Name> <!-- johnny_normal bike_on_fire -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>70b709ea</Name> <!-- johnny_normal bike_is_destroyed -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d24079b9</Name> <!-- johnny_normal bowling_spare -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8c6df2ed</Name> <!-- johnny_normal cards_higher -->
+   <RawData>0C 05 00</RawData> <!-- 12 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>54259d5</Name> <!-- johnny_normal cards_generic_pause -->
+   <RawData>0F 05 00</RawData> <!-- 15 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>57141e9d</Name> <!-- johnny_normal arrested_drunk -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4f7473cd</Name> <!-- johnny_normal bowling_heckle -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a04f38f</Name> <!-- johnny_normal bowling_gutter -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5e53da79</Name> <!-- johnny_normal biker_clips_another_bike -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dfbdb741</Name> <!-- johnny_normal cards_choose_faster_resp -->
+   <RawData>0F 05 00</RawData> <!-- 15 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cae10ab9</Name> <!-- johnny_normal cards_higher_unsure -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>14e3ba3a</Name> <!-- johnny_normal bowling_perfect -->
+   <RawData>03 05 00</RawData> <!-- 03 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a1e83899</Name> <!-- johnny_normal arrested -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8e4b2e08</Name> <!-- johnny_normal biker_achieve_mission_objective -->
+   <RawData>0A 05 00</RawData> <!-- 10 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7ce99083</Name> <!-- johnny_normal bike_overtake -->
+   <RawData>0F 05 00</RawData> <!-- 15 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>502a97ae</Name> <!-- johnny_normal cards_good_choice -->
+   <RawData>0C 05 00</RawData> <!-- 12 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>82cff6d4</Name> <!-- johnny_normal cards_lower_sure -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>45514485</Name> <!-- johnny_normal crash_generic -->
+   <RawData>23 06 00</RawData> <!-- 35 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a57d8c91</Name> <!-- johnny_normal darts_player_misses_board -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f8d88262</Name> <!-- johnny_normal cards_taunt -->
+   <RawData>0C 06 00</RawData> <!-- 12 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6b041f0d</Name> <!-- johnny_normal cards_tough_choice_player -->
+   <RawData>0F 06 00</RawData> <!-- 15 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>31e4ea11</Name> <!-- johnny_normal darts_player_wins -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>69c0847a</Name> <!-- johnny_normal darts_player_plays_well -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2433bb37</Name> <!-- johnny_normal darts_bullseye -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c9bee77a</Name> <!-- johnny_normal darts_losing_badly -->
+   <RawData>03 06 00</RawData> <!-- 03 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>53215998</Name> <!-- johnny_normal follow_me_guys -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1dfbb1d5</Name> <!-- johnny_normal come_under_attack -->
+   <RawData>14 06 00</RawData> <!-- 20 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ab837744</Name> <!-- johnny_normal johnny_curse_billy_shouted -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d361a5a8</Name> <!-- johnny_normal darts_boast -->
+   <RawData>0C 06 00</RawData> <!-- 12 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2ab8464c</Name> <!-- johnny_normal crash_car -->
+   <RawData>19 06 00</RawData> <!-- 25 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fa40e00b</Name> <!-- johnny_normal chased -->
+   <RawData>19 06 00</RawData> <!-- 25 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>878b4d7d</Name> <!-- johnny_normal fight_drunk -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>417ab876</Name> <!-- johnny_normal chased_drunk -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>24605593</Name> <!-- johnny_normal thanks -->
+   <RawData>09 06 00</RawData> <!-- 09 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>df780b60</Name> <!-- johnny_normal darts_player_gets_140 -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1d114a81</Name> <!-- johnny_normal cards_lower_unsure -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d721014e</Name> <!-- johnny_normal darts_player_plays_poorly -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7aa4be4</Name> <!-- johnny_normal darts_player_loses -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>158b2a6</Name> <!-- johnny_normal darts_player_1_dart_away -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>accabaa2</Name> <!-- johnny_normal darts_happy -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5e44c164</Name> <!-- johnny_normal darts_player_gets_180 -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5c59963e</Name> <!-- johnny_normal darts_player_busts -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a6ff29ab</Name> <!-- johnny_normal drugs_buy -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>869bd030</Name> <!-- johnny_normal cards_out_of_a_jam -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b7a62b38</Name> <!-- johnny_normal cards_win -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc98ea96</Name> <!-- johnny_normal cards_lower_reckless -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>922c8202</Name> <!-- johnny_normal darts_player_fails_check_out -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1e12bbb6</Name> <!-- johnny_normal hooker_cheap -->
+   <RawData>05 07 00</RawData> <!-- 05 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5ff57b3a</Name> <!-- johnny_normal jacked_car -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>db9ff58b</Name> <!-- johnny_normal generic_celebration -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9e2bc627</Name> <!-- johnny_normal jacking_car_fem -->
+   <RawData>19 07 00</RawData> <!-- 25 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fb6b10b7</Name> <!-- johnny_normal jacked_generic -->
+   <RawData>14 07 00</RawData> <!-- 20 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a87be9b4</Name> <!-- johnny_normal jacking_bike -->
+   <RawData>19 07 00</RawData> <!-- 25 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a3e8e225</Name> <!-- johnny_normal jacking_car_dead -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a15b622c</Name> <!-- johnny_normal generic_insult -->
+   <RawData>19 07 00</RawData> <!-- 25 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9fcbbcb3</Name> <!-- johnny_normal generic_curse_drunk -->
+   <RawData>0F 07 00</RawData> <!-- 15 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1030f232</Name> <!-- johnny_normal hooker_car_small -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>22eec532</Name> <!-- johnny_normal get_the_hell_out_of_here -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>40dc62b0</Name> <!-- johnny_normal jacking_car_male -->
+   <RawData>19 07 00</RawData> <!-- 25 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bf8a0b17</Name> <!-- johnny_normal generic_chat_drunk -->
+   <RawData>14 07 00</RawData> <!-- 20 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d306c65d</Name> <!-- johnny_normal get_wanted_level -->
+   <RawData>14 07 00</RawData> <!-- 20 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e8a5108b</Name> <!-- johnny_normal hurry_up -->
+   <RawData>0F 07 00</RawData> <!-- 15 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e7269441</Name> <!-- johnny_normal rr_soft -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e6d25756</Name> <!-- johnny_normal johnny_curse_billy_under_breath -->
+   <RawData>08 07 00</RawData> <!-- 08 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>13f5a3cd</Name> <!-- johnny_normal generic_curse -->
+   <RawData>09 07 00</RawData> <!-- 09 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>68359214</Name> <!-- johnny_normal fight -->
+   <RawData>1E 07 00</RawData> <!-- 30 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>99f87266</Name> <!-- johnny_normal having_sex -->
+   <RawData>0F 07 00</RawData> <!-- 15 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b2233333</Name> <!-- johnny_normal generic_insult_drunk -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>afce1f1f</Name> <!-- johnny_normal radio_req_journey -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3b6990f8</Name> <!-- johnny_normal pool_player_pots_many -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f0e400a2</Name> <!-- johnny_normal pool_player_foul -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>11ef256a</Name> <!-- johnny_normal pool_friend_break -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fc35baef</Name> <!-- johnny_normal radio_req_beat -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d318336b</Name> <!-- johnny_normal messing_with_phone -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>654a48cc</Name> <!-- johnny_normal radio_req_fusion -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7bce9b7b</Name> <!-- johnny_normal lost_taunt_angels_of_death -->
+   <RawData>19 08 00</RawData> <!-- 25 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>74db0220</Name> <!-- johnny_normal radio_req_classics -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>489c424b</Name> <!-- johnny_normal radio_req_independence -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ac0ac004</Name> <!-- johnny_normal lost_whoop -->
+   <RawData>0F 08 00</RawData> <!-- 15 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>32f9b3fc</Name> <!-- johnny_normal jacking_generic -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b16d570</Name> <!-- johnny_normal knock_over_ped -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3d6747d9</Name> <!-- johnny_normal pool_player_wins -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5f6e6b7a</Name> <!-- johnny_normal radio_req_broker -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>425db95a</Name> <!-- johnny_normal hooker_expensive -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>52712c4f</Name> <!-- johnny_normal pool_player_miss -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8362fac1</Name> <!-- johnny_normal in_cover_dodge_bullets -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d52612d</Name> <!-- johnny_normal pool_player_pots_on_break -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>13bdbaf8</Name> <!-- johnny_normal pool_lets_play -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5c71937a</Name> <!-- johnny_normal radio_req_jnr -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>711b916e</Name> <!-- johnny_normal pool_player_pots -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>447f4579</Name> <!-- johnny_normal killed_all -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cad858ba</Name> <!-- johnny_normal need_some_help -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8ecc6cd0</Name> <!-- johnny_normal radio_req_francois -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c15867ff</Name> <!-- johnny_normal pool_play_again -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>36cb056d</Name> <!-- johnny_normal melee_knock_down -->
+   <RawData>0F 08 00</RawData> <!-- 15 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cc5621b7</Name> <!-- johnny_normal pool_player_goes_for_black -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5e5596c8</Name> <!-- johnny_normal player_is_drunk -->
+   <RawData>0A 08 00</RawData> <!-- 10 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>28383929</Name> <!-- johnny_normal hooker_quiet -->
+   <RawData>06 08 00</RawData> <!-- 06 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c2034c81</Name> <!-- johnny_normal pool_player_loses -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>925a478e</Name> <!-- johnny_normal hooker_midrange -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8fbbeb21</Name> <!-- johnny_normal mission_blind_rage -->
+   <RawData>39 08 00</RawData> <!-- 57 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b4cb6bbe</Name> <!-- johnny_normal pool_player_break -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>31a9b0c1</Name> <!-- johnny_normal jacking_order -->
+   <RawData>0A 08 00</RawData> <!-- 10 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ca4cc564</Name> <!-- johnny_normal radio_req_if99 -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>73d14396</Name> <!-- johnny_normal pull_gun -->
+   <RawData>1E 08 00</RawData> <!-- 30 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f6b677e</Name> <!-- johnny_normal taxi_give_dest_ruby_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d532d857</Name> <!-- johnny_normal rr_friend_attacksj -->
+   <RawData>0A 09 00</RawData> <!-- 10 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>63473dc5</Name> <!-- johnny_normal taxi_give_dest_quartz_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f0bcc875</Name> <!-- johnny_normal radio_req_k109 -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>78ef6b11</Name> <!-- johnny_normal radio_req_wktt -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>403ccb49</Name> <!-- johnny_normal taxi_give_dest_berners_road -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1efc6f1a</Name> <!-- johnny_normal generic_buy -->
+   <RawData>0B 09 00</RawData> <!-- 11 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4fa549d</Name> <!-- johnny_normal rr_attack_generic -->
+   <RawData>0F 09 00</RawData> <!-- 15 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9200c0e6</Name> <!-- johnny_normal solicit_hooker_resp_pos_foot -->
+   <RawData>06 09 00</RawData> <!-- 06 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b3880c1e</Name> <!-- johnny_normal search_body_take_item -->
+   <RawData>0F 09 00</RawData> <!-- 15 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>91c75df</Name> <!-- johnny_normal radio_req_massiveb -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2dec8e6d</Name> <!-- johnny_normal spot_police -->
+   <RawData>0B 09 00</RawData> <!-- 11 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>94a036e2</Name> <!-- johnny_normal taxi_give_dest_sacramento_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7dcb65</Name> <!-- johnny_normal taxi_give_dest_frankfort_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f590b44c</Name> <!-- johnny_normal taxi_step_on_it -->
+   <RawData>06 09 00</RawData> <!-- 06 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4a1a1c9</Name> <!-- johnny_normal taxi_give_dest_aspdin_drive -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d87df53</Name> <!-- johnny_normal taxi_give_dest_union_drive_west -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f67d4e31</Name> <!-- johnny_normal solicit_hooker_resp_pos_car -->
+   <RawData>06 09 00</RawData> <!-- 06 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a4dd90</Name> <!-- johnny_normal taxi_hail_drunk -->
+   <RawData>05 09 00</RawData> <!-- 05 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1f723dc2</Name> <!-- johnny_normal taxi_give_dest_lorimar_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4fd7523f</Name> <!-- johnny_normal taxi_give_dest_owl_creek -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6ba93537</Name> <!-- johnny_normal strip_enjoying_self -->
+   <RawData>14 09 00</RawData> <!-- 20 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dce680aa</Name> <!-- johnny_normal taxi_give_dest_earp_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c64aea1d</Name> <!-- johnny_normal taxi_give_dest_generic -->
+   <RawData>0A 09 00</RawData> <!-- 10 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f0fab56e</Name> <!-- johnny_normal taxi_change_dest -->
+   <RawData>05 09 00</RawData> <!-- 05 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>83aa24d6</Name> <!-- johnny_normal taxi_give_dest_mahesh_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae8e5e05</Name> <!-- johnny_normal solicit_hooker_resp_neg -->
+   <RawData>07 09 00</RawData> <!-- 07 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae8f8cdf</Name> <!-- johnny_normal taxi_give_dest_oneida_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b073a60</Name> <!-- johnny_normal taxi_give_dest_babbage_drive -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3a048f0a</Name> <!-- johnny_normal radio_req_vladivostok -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8e8ee5b5</Name> <!-- johnny_normal taxi_give_dest_denver_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d216400d</Name> <!-- johnny_normal radio_req_lrr -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2b0c0751</Name> <!-- johnny_normal taxi_give_dest_bismarck_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2414fa05</Name> <!-- johnny_normal taxi_give_dest_hickock_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>25d6529c</Name> <!-- johnny_normal taxi_give_dest_roebuck_rd -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e92f81f6</Name> <!-- johnny_normal start_car_panic -->
+   <RawData>0C 09 00</RawData> <!-- 12 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d11c77df</Name> <!-- johnny_normal solicit_bum_resp_neg -->
+   <RawData>0A 09 00</RawData> <!-- 10 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5270c43b</Name> <!-- johnny_normal taxi_give_dest_mohanet_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f5c6899</Name> <!-- johnny_normal radio_req_plr -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2323f419</Name> <!-- johnny_normal radio_req_lchc -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7612580b</Name> <!-- johnny_normal taxi_give_dest_east_borough_bridge -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>30852883</Name> <!-- johnny_normal strip_ask_to_leave -->
+   <RawData>05 09 00</RawData> <!-- 05 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>79e0e910</Name> <!-- johnny_normal radio_req_tuffgong -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3f4b524c</Name> <!-- johnny_normal taxi_give_dest_guantanamo_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>184687f0</Name> <!-- johnny_normal solicit_bum_resp_pos -->
+   <RawData>09 09 00</RawData> <!-- 09 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>18cad71b</Name> <!-- johnny_normal taxi_give_dest_san_quentin_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>94ec6a4b</Name> <!-- johnny_normal radio_req_sanjuan -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>aaf46122</Name> <!-- johnny_normal taxi_give_dest_odhner_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>94fd4c29</Name> <!-- johnny_normal taxi_give_dest_wardite_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>224349a2</Name> <!-- johnny_normal taxi_give_dest_vitullo_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>736221e4</Name> <!-- johnny_normal taxi_give_dest_saratoga_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>22c968c3</Name> <!-- johnny_normal subway_journey_ask -->
+   <RawData>05 09 00</RawData> <!-- 05 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2d1f88c</Name> <!-- johnny_normal taxi_give_dest_boleyn_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>81ce5a3d</Name> <!-- johnny_normal taxi_give_dest_gibson_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ce8a6d6c</Name> <!-- johnny_normal hooker_relief -->
+   <RawData>08 09 00</RawData> <!-- 08 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>48161ef2</Name> <!-- johnny_normal taxi_give_dest_dillon_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>57c3adc6</Name> <!-- johnny_normal taxi_give_dest_manzano_rd -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ec225b4</Name> <!-- johnny_normal taxi_give_dest_president_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>88c88eb3</Name> <!-- johnny_normal rr_attack_friend -->
+   <RawData>08 09 00</RawData> <!-- 08 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d995efe7</Name> <!-- johnny_normal radio_req_vibe -->
+   <RawData>03 09 00</RawData> <!-- 03 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>572d6929</Name> <!-- johnny_normal taxi_give_dest_cisco_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2c44b4c3</Name> <!-- johnny_normal taxi_give_dest_concord_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f047a5f</Name> <!-- johnny_normal taxi_give_dest_huntington_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>20a1e1ae</Name> <!-- johnny_normal taxi_give_dest_west_way -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7092dc6e</Name> <!-- johnny_normal taxi_give_dest_feldspar_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d327dc55</Name> <!-- johnny_normal taxi_give_dest_plumbers_skyway -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5d4014f</Name> <!-- johnny_normal shoot -->
+   <RawData>28 09 00</RawData> <!-- 40 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>54d15eee</Name> <!-- johnny_normal taxi_give_dest_columbus_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>15c7593e</Name> <!-- johnny_normal taxi_give_dest_leavenworth_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4efb601e</Name> <!-- johnny_normal taxi_give_dest_garnet_st -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>56ab17eb</Name> <!-- johnny_normal taxi_give_dest_exeter_ave -->
+   <RawData>01 09 00</RawData> <!-- 01 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4d5d5255</Name> <!-- johnny_normal taxi_hail -->
+   <RawData>0A 09 00</RawData> <!-- 10 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fc1273c8</Name> <!-- johnny_normal stay_down -->
+   <RawData>0F 09 00</RawData> <!-- 15 9 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>johnny</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>johnny_extras</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>johnny_angry</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>johnny_normal</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>0</Name>
+   <ContainerHash>gtaiv_ep1/johnny</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>1</Name>
+   <ContainerHash>gtaiv_ep1/johnny_extras</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>2</Name>
+   <ContainerHash>gtaiv_ep1/johnny_angry_1</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>3</Name>
+   <ContainerHash>gtaiv_ep1/johnny_angry_2</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>4</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_1</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>5</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_2</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>6</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_3</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>7</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_4</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>8</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_5</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>9</Name>
+   <ContainerHash>gtaiv_ep1/johnny_normal_6</ContainerHash>
+  </Item>
+ </Items>
+</Dat4>

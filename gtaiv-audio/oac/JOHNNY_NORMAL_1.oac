@@ -1,0 +1,5048 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack ABUSE_COPS_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_COPS_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_COPS_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABUSE_GENERIC_BIKER_PED_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ABUSE_GENERIC_BIKER_PED_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AFTER_SEX_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AFTER_SEX_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_I_SERVE_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_I_SERVE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_I_SERVE_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_I_SERVE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_I_SERVE_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_I_SERVE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_I_SERVE_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_I_SERVE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_I_SERVE_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_I_SERVE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_FAST_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_FAST_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_MED_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_MED_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LET_PUCK_IN_SLOW_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LET_PUCK_IN_SLOW_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_LOSE_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_LOSE_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_FAST_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_FAST_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_MED_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_MED_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SCORE_SLOW_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SCORE_SLOW_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_SERVE_HURRY_UP_RESP_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_SERVE_HURRY_UP_RESP_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_TAUNT_RESP_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_TAUNT_RESP_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_WIN_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_WIN_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_YOU_SERVE_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_YOU_SERVE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_YOU_SERVE_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_YOU_SERVE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_YOU_SERVE_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_YOU_SERVE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_YOU_SERVE_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_YOU_SERVE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AIR_HOCKEY_YOU_SERVE_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/AIR_HOCKEY_YOU_SERVE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_LOST_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_LOST_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLE_WON_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLE_WON_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_DEFEAT_IS_CLOSE_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_DEFEAT_IS_CLOSE_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_13
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_13.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_14
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_15
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_16
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_16.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_17
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_17.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_18
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_18.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_19
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_19.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_HIGH_20
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_HIGH_20.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_13
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_13.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_14
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_15
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_16
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_16.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_17
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_17.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_18
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_18.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_19
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_19.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_LOW_20
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_LOW_20.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_13
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_13.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_14
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_15
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_16
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_16.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_17
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_17.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_18
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_18.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_GROAN_MED_19
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_GROAN_MED_19.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_DEFEAT_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_DEFEAT_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_11
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_POINT_OF_VICTORY_12
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_POINT_OF_VICTORY_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_PRELIM_RESP_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_PRELIM_RESP_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM_WRESTLING_TAUNT_RESP_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/ARM_WRESTLING_TAUNT_RESP_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_02
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_03
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_04
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_05
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_06
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_07
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_08
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_09
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack JACKING_LOST_BIKE_10
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave JOHNNY_NORMAL_1/JACKING_LOST_BIKE_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat4>
+ <Version value="23982542" />
+ <ContainerPaths>
+  <Item>GTAIV_EP2\LUIS</Item>
+  <Item>GTAIV_EP2\LUIS_EXTRAS</Item>
+  <Item>GTAIV_EP2\LUIS_ANGRY_1</Item>
+  <Item>GTAIV_EP2\LUIS_ANGRY_2</Item>
+  <Item>GTAIV_EP2\LUIS_NORMAL_1</Item>
+  <Item>GTAIV_EP2\LUIS_NORMAL_2</Item>
+  <Item>GTAIV_EP2\LUIS_NORMAL_3</Item>
+  <Item>GTAIV_EP2\LUIS_NORMAL_4</Item>
+  <Item>GTAIV_EP2\LUIS_NORMAL_5</Item>
+ </ContainerPaths>
+ <Items>
+  <Item type="ByteArray">
+   <Name>daa167ed</Name> <!-- luis pain_low -->
+   <RawData>4B 00 00</RawData> <!-- 75 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>28fe3362</Name> <!-- luis pain_high -->
+   <RawData>4B 00 00</RawData> <!-- 75 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b80c6bdf</Name> <!-- luis death_low -->
+   <RawData>1E 00 00</RawData> <!-- 30 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2b36f62</Name> <!-- luis death_high -->
+   <RawData>1E 00 00</RawData> <!-- 30 0 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9f8b806d</Name> <!-- luis_extras fuck_fall -->
+   <RawData>0E 01 00</RawData> <!-- 14 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9ce5e3e1</Name> <!-- luis_extras grunt_climb_easy_up -->
+   <RawData>16 01 00</RawData> <!-- 22 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>31a7a515</Name> <!-- luis_extras grunt_climb_over -->
+   <RawData>10 01 00</RawData> <!-- 16 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>57cef374</Name> <!-- luis_extras grunt_climb_hard_up -->
+   <RawData>0A 01 00</RawData> <!-- 10 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a9fde88e</Name> <!-- luis_extras inhale -->
+   <RawData>0B 01 00</RawData> <!-- 11 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b475eb86</Name> <!-- luis_extras high_fall -->
+   <RawData>11 01 00</RawData> <!-- 17 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a1994de9</Name> <!-- luis_extras cough -->
+   <RawData>0F 01 00</RawData> <!-- 15 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c8479fe4</Name> <!-- luis_extras on_fire -->
+   <RawData>0F 01 00</RawData> <!-- 15 1 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a7d55e73</Name> <!-- luis_angry jacking_bike -->
+   <RawData>0A 02 00</RawData> <!-- 10 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b57c0e78</Name> <!-- luis_angry car_hit_ped -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4afff342</Name> <!-- luis_angry crash_generic -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>918571e0</Name> <!-- luis_angry jacking_car_fem -->
+   <RawData>0F 02 00</RawData> <!-- 15 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ac4655e2</Name> <!-- luis_angry jacking_car_dead -->
+   <RawData>08 02 00</RawData> <!-- 08 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4f72d577</Name> <!-- luis_angry jacking_car_male -->
+   <RawData>12 02 00</RawData> <!-- 18 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8ccc4d06</Name> <!-- luis_angry in_cover_dodge_bullets -->
+   <RawData>0F 02 00</RawData> <!-- 15 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1c5b140a</Name> <!-- luis_angry generic_curse -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e70ba74c</Name> <!-- luis_angry hurry_up -->
+   <RawData>06 02 00</RawData> <!-- 06 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f4c5a770</Name> <!-- luis_angry jacked_generic -->
+   <RawData>0C 02 00</RawData> <!-- 12 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>505bccfd</Name> <!-- luis_angry jacked_car -->
+   <RawData>08 02 00</RawData> <!-- 08 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5ee57cc</Name> <!-- luis_angry chased -->
+   <RawData>0F 02 00</RawData> <!-- 15 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae468f5e</Name> <!-- luis_angry arrested -->
+   <RawData>06 02 00</RawData> <!-- 06 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>679b25d3</Name> <!-- luis_angry fight -->
+   <RawData>0C 02 00</RawData> <!-- 12 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2516f18b</Name> <!-- luis_angry crash_car -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>aef5d5eb</Name> <!-- luis_angry generic_insult -->
+   <RawData>14 02 00</RawData> <!-- 20 2 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fa3e038b</Name> <!-- luis_angry taxi_step_on_it -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e6813631</Name> <!-- luis_angry start_car_panic -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>deb2c018</Name> <!-- luis_angry solicit_bum_resp_neg -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f9d3f9f6</Name> <!-- luis_angry solicit_hooker_resp_pos_car -->
+   <RawData>05 03 00</RawData> <!-- 05 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dcb684ac</Name> <!-- luis_angry messing_with_phone -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3965b2aa</Name> <!-- luis_angry melee_knock_down -->
+   <RawData>08 03 00</RawData> <!-- 08 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4bd1f2be</Name> <!-- luis_angry killed_all -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c576ef7d</Name> <!-- luis_angry need_some_help -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2d67df04</Name> <!-- luis_angry subway_journey_ask -->
+   <RawData>03 03 00</RawData> <!-- 03 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c7ff451</Name> <!-- luis_angry pull_gun -->
+   <RawData>19 03 00</RawData> <!-- 25 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1139c492</Name> <!-- luis_angry mission_fail_rage -->
+   <RawData>0A 03 00</RawData> <!-- 10 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9dae7721</Name> <!-- luis_angry solicit_hooker_resp_pos_foot -->
+   <RawData>05 03 00</RawData> <!-- 05 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc26bbd9</Name> <!-- luis_angry search_body_take_item -->
+   <RawData>0A 03 00</RawData> <!-- 10 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cce6ad06</Name> <!-- luis_angry taxi_drives_past -->
+   <RawData>06 03 00</RawData> <!-- 06 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fa7ab688</Name> <!-- luis_angry shoot -->
+   <RawData>28 03 00</RawData> <!-- 40 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3d57043b</Name> <!-- luis_angry jacking_generic -->
+   <RawData>0F 03 00</RawData> <!-- 15 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a120e9c2</Name> <!-- luis_angry solicit_hooker_resp_neg -->
+   <RawData>05 03 00</RawData> <!-- 05 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>224239aa</Name> <!-- luis_angry spot_police -->
+   <RawData>0C 03 00</RawData> <!-- 12 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3e070706</Name> <!-- luis_angry jacking_order -->
+   <RawData>08 03 00</RawData> <!-- 08 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>54b862b7</Name> <!-- luis_angry knock_over_ped -->
+   <RawData>05 03 00</RawData> <!-- 05 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f3bcc40f</Name> <!-- luis_angry stay_down -->
+   <RawData>14 03 00</RawData> <!-- 20 3 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7b435426</Name> <!-- luis_normal air_hockey_score_med -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1a629d2e</Name> <!-- luis_normal basejump_checkpoint_miss -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>93869e51</Name> <!-- luis_normal club_game_argue_leave -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4c024464</Name> <!-- luis_normal air_hockey_let_puck_in_fast -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d1a53ba5</Name> <!-- luis_normal club_game_deal_leave -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7c25c092</Name> <!-- luis_normal chased -->
+   <RawData>14 04 00</RawData> <!-- 20 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c71f98ef</Name> <!-- luis_normal chased_drunk -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>41c024bb</Name> <!-- luis_normal basejump_checkpoint_hit -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dea7eaac</Name> <!-- luis_normal car_hit_ped_drunk -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f3e3dcdd</Name> <!-- luis_normal club_game_bribe_accept -->
+   <RawData>03 04 00</RawData> <!-- 03 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>402d11a1</Name> <!-- luis_normal air_hockey_let_puck_in_med -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>39cb0590</Name> <!-- luis_normal after_sex -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>92869aa3</Name> <!-- luis_normal bowling_perfect -->
+   <RawData>02 04 00</RawData> <!-- 02 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b17bfc40</Name> <!-- luis_normal air_hockey_score_fast -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>54255920</Name> <!-- luis_normal bowling_spare -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a05a5fc8</Name> <!-- luis_normal after_booty_call -->
+   <RawData>0D 04 00</RawData> <!-- 13 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b138128d</Name> <!-- luis_normal air_hockey_taunt_resp -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6630ae0</Name> <!-- luis_normal bowling_strike -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8e9c4aa2</Name> <!-- luis_normal bowling_boast -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>62edee3</Name> <!-- luis_normal air_hockey_serve_hurry_up -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f4eb6cd8</Name> <!-- luis_normal basejump_freefall -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4242ab2c</Name> <!-- luis_normal air_hockey_bored -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>72a58d6d</Name> <!-- luis_normal air_hockey_i_serve -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8ba644d9</Name> <!-- luis_normal bowling_player_wins -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7f52daf5</Name> <!-- luis_normal air_hockey_lose -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bbb91eaa</Name> <!-- luis_normal bowling_player_loses -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3cb79926</Name> <!-- luis_normal car_hit_ped -->
+   <RawData>14 04 00</RawData> <!-- 20 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f9224c7b</Name> <!-- luis_normal air_hockey_you_serve -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5caee63</Name> <!-- luis_normal buy_champagne -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>160a3640</Name> <!-- luis_normal air_hockey_win -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d1713e04</Name> <!-- luis_normal arrested_drunk -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c9115354</Name> <!-- luis_normal bowling_heckle -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9c61d316</Name> <!-- luis_normal bowling_gutter -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>278d1800</Name> <!-- luis_normal arrested -->
+   <RawData>08 04 00</RawData> <!-- 08 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>117ca0c9</Name> <!-- luis_normal air_hockey_let_puck_in_slow -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f723aa18</Name> <!-- luis_normal air_hockey_serve_hurry_up_resp -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e8cef1b4</Name> <!-- luis_normal buy_drink -->
+   <RawData>0A 04 00</RawData> <!-- 10 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>70740118</Name> <!-- luis_normal air_hockey_taunt -->
+   <RawData>05 04 00</RawData> <!-- 05 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>94aab2bc</Name> <!-- luis_normal basejump_breathe -->
+   <RawData>03 04 00</RawData> <!-- 03 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a3905c1f</Name> <!-- luis_normal air_hockey_score_slow -->
+   <RawData>06 04 00</RawData> <!-- 06 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b94d009c</Name> <!-- luis_normal basejump_edge -->
+   <RawData>04 04 00</RawData> <!-- 04 4 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c93555a8</Name> <!-- luis_normal club_game_drunkard_leave -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c334641c</Name> <!-- luis_normal crash_generic -->
+   <RawData>14 05 00</RawData> <!-- 20 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2318ac08</Name> <!-- luis_normal darts_player_misses_board -->
+   <RawData>03 05 00</RawData> <!-- 03 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1378ca74</Name> <!-- luis_normal dancing_game_showoff -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4bb510f5</Name> <!-- luis_normal bowling_turkey -->
+   <RawData>03 05 00</RawData> <!-- 03 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>142f8780</Name> <!-- luis_normal dancing_game_luis_fail -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a2569bae</Name> <!-- luis_normal darts_bullseye -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9b9e914c</Name> <!-- luis_normal come_under_attack -->
+   <RawData>0F 05 00</RawData> <!-- 15 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2bb4f3b0</Name> <!-- luis_normal dancing_game_luis_sexy -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>acdd66d5</Name> <!-- luis_normal crash_car -->
+   <RawData>14 05 00</RawData> <!-- 20 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>290277c4</Name> <!-- luis_normal drinking_game_challenge_accept -->
+   <RawData>09 05 00</RawData> <!-- 09 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>591d2bf9</Name> <!-- luis_normal darts_player_gets_140 -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>873d923f</Name> <!-- luis_normal darts_player_1_dart_away -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>81cf6b7d</Name> <!-- luis_normal darts_player_loses -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c73570c8</Name> <!-- luis_normal club_game_fight_leave -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1449a29b</Name> <!-- luis_normal darts_player_fails_check_out -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>eaa5434d</Name> <!-- luis_normal club_game_escort_drunk -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>61d16da0</Name> <!-- luis_normal dancing_game_luis_good -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b8b7de8a</Name> <!-- luis_normal dancing_game_luis_special -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2aaf9a3b</Name> <!-- luis_normal darts_happy -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>626f77e</Name> <!-- luis_normal dancing_game_grinding -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8b669016</Name> <!-- luis_normal dancing_game_quit -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fef3b388</Name> <!-- luis_normal dancing_game_no -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>da3cb6a7</Name> <!-- luis_normal darts_player_busts -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>59a41219</Name> <!-- luis_normal club_game_perv_leave -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6dc9aea2</Name> <!-- luis_normal drinking_game_lose -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b781ca88</Name> <!-- luis_normal darts_player_wins -->
+   <RawData>04 05 00</RawData> <!-- 04 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>efa5a4e3</Name> <!-- luis_normal darts_player_plays_well -->
+   <RawData>06 05 00</RawData> <!-- 06 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>514421d7</Name> <!-- luis_normal darts_player_plays_poorly -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4fdbc7e3</Name> <!-- luis_normal darts_losing_badly -->
+   <RawData>03 05 00</RawData> <!-- 03 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>23ef9981</Name> <!-- luis_normal dancing_game_luis_ok -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d821e1fd</Name> <!-- luis_normal darts_player_gets_180 -->
+   <RawData>03 05 00</RawData> <!-- 03 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e314d33c</Name> <!-- luis_normal dancing_game_yes -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>13485935</Name> <!-- luis_normal dancing_game_luis_success -->
+   <RawData>05 05 00</RawData> <!-- 05 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8d4b7531</Name> <!-- luis_normal dancing_game_accept -->
+   <RawData>09 05 00</RawData> <!-- 09 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e164facc</Name> <!-- luis_normal dancing_game_luis_bad -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>55048531</Name> <!-- luis_normal darts_boast -->
+   <RawData>06 05 00</RawData> <!-- 06 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>df3e13e6</Name> <!-- luis_normal dancing_game_chat -->
+   <RawData>08 05 00</RawData> <!-- 08 5 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a041d5b9</Name> <!-- luis_normal drinking_game_win -->
+   <RawData>09 06 00</RawData> <!-- 09 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>98779b2f</Name> <!-- luis_normal hooker_cheap -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c43899c3</Name> <!-- luis_normal hooker_expensive -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>44834a0c</Name> <!-- luis_normal drinking_game_puke -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>507da58</Name> <!-- luis_normal in_cover_dodge_bullets -->
+   <RawData>0C 06 00</RawData> <!-- 12 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1ee6de4</Name> <!-- luis_normal fight_drunk -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e2815809</Name> <!-- luis_normal drinking_game_spray_crowd -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2e1ec92d</Name> <!-- luis_normal jacking_bike -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>258dc2bc</Name> <!-- luis_normal jacking_car_dead -->
+   <RawData>07 06 00</RawData> <!-- 07 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>98994f83</Name> <!-- luis_normal generic_buy -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>273e42b5</Name> <!-- luis_normal generic_insult -->
+   <RawData>14 06 00</RawData> <!-- 20 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>19ae9c2a</Name> <!-- luis_normal generic_curse_drunk -->
+   <RawData>0A 06 00</RawData> <!-- 10 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9655d2ab</Name> <!-- luis_normal hooker_car_small -->
+   <RawData>03 06 00</RawData> <!-- 03 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d0e302e</Name> <!-- luis_normal jacked_generic -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d9905ba3</Name> <!-- luis_normal jacked_car -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ae5d19b0</Name> <!-- luis_normal hooker_quiet -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>39ef2b8e</Name> <!-- luis_normal generic_chat_drunk -->
+   <RawData>28 06 00</RawData> <!-- 40 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>95908354</Name> <!-- luis_normal generic_curse -->
+   <RawData>14 06 00</RawData> <!-- 20 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6ec03012</Name> <!-- luis_normal hurry_up -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>48ef4df5</Name> <!-- luis_normal hooker_relief -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>143f6717</Name> <!-- luis_normal hooker_midrange -->
+   <RawData>06 06 00</RawData> <!-- 06 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5563e6c4</Name> <!-- luis_normal get_wanted_level -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e8b31468</Name> <!-- luis_normal drinking_game_quit -->
+   <RawData>08 06 00</RawData> <!-- 08 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ee50b28d</Name> <!-- luis_normal fight -->
+   <RawData>11 06 00</RawData> <!-- 17 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1f9d52ff</Name> <!-- luis_normal having_sex -->
+   <RawData>0D 06 00</RawData> <!-- 13 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6babbb76</Name> <!-- luis_normal drinking_game_lost -->
+   <RawData>05 06 00</RawData> <!-- 05 6 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>29ab3f86</Name> <!-- luis_normal radio_req_journey -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bd0cb061</Name> <!-- luis_normal pool_player_pots_many -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>54736094</Name> <!-- luis_normal radio_req_lrr -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7681203b</Name> <!-- luis_normal pool_player_foul -->
+   <RawData>07 07 00</RawData> <!-- 07 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>978a05f3</Name> <!-- luis_normal pool_friend_break -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a509a76</Name> <!-- luis_normal radio_req_beat -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>557d13f2</Name> <!-- luis_normal messing_with_phone -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a546d480</Name> <!-- luis_normal radio_req_lchc -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e32f6855</Name> <!-- luis_normal radio_req_fusion -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f2be22b9</Name> <!-- luis_normal radio_req_classics -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c6b94229</Name> <!-- luis_normal jacking_car_male -->
+   <RawData>14 07 00</RawData> <!-- 20 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cef962d2</Name> <!-- luis_normal radio_req_independence -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b49c9365</Name> <!-- luis_normal jacking_generic -->
+   <RawData>0F 07 00</RawData> <!-- 15 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dd73f5e9</Name> <!-- luis_normal knock_over_ped -->
+   <RawData>05 07 00</RawData> <!-- 05 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bb026740</Name> <!-- luis_normal pool_player_wins -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d90b4be3</Name> <!-- luis_normal radio_req_broker -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d4140cd6</Name> <!-- luis_normal pool_player_miss -->
+   <RawData>06 07 00</RawData> <!-- 06 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9312a4c9</Name> <!-- luis_normal radio_req_integrity -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>184ee6be</Name> <!-- luis_normal jacking_car_fem -->
+   <RawData>0E 07 00</RawData> <!-- 14 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fb3741b4</Name> <!-- luis_normal pool_player_pots_on_break -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>da14b3e3</Name> <!-- luis_normal radio_req_jnr -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>473d4766</Name> <!-- luis_normal pool_play_again -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>c21a65e0</Name> <!-- luis_normal killed_all -->
+   <RawData>0C 07 00</RawData> <!-- 12 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4cbd7823</Name> <!-- luis_normal need_some_help -->
+   <RawData>0B 07 00</RawData> <!-- 11 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8a94c49</Name> <!-- luis_normal radio_req_francois -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b0ae25f4</Name> <!-- luis_normal melee_knock_down -->
+   <RawData>05 07 00</RawData> <!-- 05 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4a33012e</Name> <!-- luis_normal pool_player_goes_for_black -->
+   <RawData>03 07 00</RawData> <!-- 03 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d830b651</Name> <!-- luis_normal player_is_drunk -->
+   <RawData>0A 07 00</RawData> <!-- 10 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9decbb8</Name> <!-- luis_normal mission_blind_rage -->
+   <RawData>3C 07 00</RawData> <!-- 60 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>44666c18</Name> <!-- luis_normal pool_player_loses -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f77eb1f7</Name> <!-- luis_normal pool_player_pots -->
+   <RawData>06 07 00</RawData> <!-- 06 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>28614d9b</Name> <!-- luis_normal listen_to_radio -->
+   <RawData>06 07 00</RawData> <!-- 06 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>32ae4b27</Name> <!-- luis_normal pool_player_break -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b7cc9058</Name> <!-- luis_normal jacking_order -->
+   <RawData>04 07 00</RawData> <!-- 04 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4c29e5fd</Name> <!-- luis_normal radio_req_if99 -->
+   <RawData>02 07 00</RawData> <!-- 02 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f5b4630f</Name> <!-- luis_normal pull_gun -->
+   <RawData>13 07 00</RawData> <!-- 19 7 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f38dabe5</Name> <!-- luis_normal taxi_give_dest_lanca -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6c193258</Name> <!-- luis_normal taxi_give_dest_firep -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>437f923</Name> <!-- luis_normal taxi_give_dest_brbro -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1443e066</Name> <!-- luis_normal taxi_give_dest_lital -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3efc224</Name> <!-- luis_normal taxi_give_dest_begga -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>183ddabd</Name> <!-- luis_normal taxi_give_dest_casgc -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>76d9e8ec</Name> <!-- luis_normal radio_req_k109 -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fe8a4b88</Name> <!-- luis_normal radio_req_wktt -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b5fa8405</Name> <!-- luis_normal taxi_give_dest_nrtga -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>467b1ad2</Name> <!-- luis_normal taxi_give_dest_rotth -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b0ec1e9f</Name> <!-- luis_normal taxi_give_dest_beecw -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2d640876</Name> <!-- luis_normal taxi_give_dest_brebb -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>10521fc5</Name> <!-- luis_normal taxi_give_dest_hapin -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1465e07f</Name> <!-- luis_normal solicit_hooker_resp_pos_foot -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f84577e5</Name> <!-- luis_normal taxi_give_dest_aerop -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>35ed2c87</Name> <!-- luis_normal search_body_take_item -->
+   <RawData>0A 08 00</RawData> <!-- 10 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8f795546</Name> <!-- luis_normal radio_req_massiveb -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b810a492</Name> <!-- luis_normal taxi_give_dest_wesmi -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ab89aef4</Name> <!-- luis_normal spot_police -->
+   <RawData>0C 08 00</RawData> <!-- 12 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>68d1414</Name> <!-- luis_normal taxi_give_dest_pugat -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a6da8a7f</Name> <!-- luis_normal taxi_give_dest_meadp -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>74b2a73c</Name> <!-- luis_normal taxi_give_dest_midpw -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>551c6e20</Name> <!-- luis_normal taxi_give_dest_jeffh -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>93c581bd</Name> <!-- luis_normal taxi_give_dest_chito -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cc0236e8</Name> <!-- luis_normal taxi_give_dest_fissn -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e4355e0a</Name> <!-- luis_normal taxi_give_dest_actip -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d2f94a72</Name> <!-- luis_normal taxi_give_dest_tudor -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>51bf6313</Name> <!-- luis_normal taxi_give_dest_fiisl -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>72e2c3a3</Name> <!-- luis_normal taxi_give_dest_norwo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>70186ea8</Name> <!-- luis_normal solicit_hooker_resp_pos_car -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e0062ee9</Name> <!-- luis_normal taxi_give_dest_stein -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>8462827d</Name> <!-- luis_normal taxi_give_dest_casgr -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>33d2f235</Name> <!-- luis_normal taxi_give_dest_thtri -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>869966b6</Name> <!-- luis_normal taxi_give_dest_willi -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>edcc15ae</Name> <!-- luis_normal strip_enjoying_self -->
+   <RawData>06 08 00</RawData> <!-- 06 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>81e52c0</Name> <!-- luis_normal taxi_give_dest_angby -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>101623f3</Name> <!-- luis_normal where_am_i -->
+   <RawData>0A 08 00</RawData> <!-- 10 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cb6e83fd</Name> <!-- luis_normal taxi_give_dest_frani -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>954f5f60</Name> <!-- luis_normal taxi_give_dest_actby -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a205750a</Name> <!-- luis_normal thanks -->
+   <RawData>0B 08 00</RawData> <!-- 11 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>28eb7e9c</Name> <!-- luis_normal solicit_hooker_resp_neg -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>73f594d5</Name> <!-- luis_normal taxi_step_on_it -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>81c1fd09</Name> <!-- luis_normal taxi_hail_drunk -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>cb3872cc</Name> <!-- luis_normal taxi_hail -->
+   <RawData>0B 08 00</RawData> <!-- 11 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bc61af93</Name> <!-- luis_normal radio_req_vladivostok -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3baaa41c</Name> <!-- luis_normal taxi_give_dest_wesdy -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1cec85ea</Name> <!-- luis_normal taxi_give_dest_thxch -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>db2c7f2c</Name> <!-- luis_normal taxi_give_dest_hibrg -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>52cb4f2c</Name> <!-- luis_normal taxi_give_dest_tmequ -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b6ac1b8</Name> <!-- luis_normal taxi_give_dest_chapo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>fd4010cb</Name> <!-- luis_normal taxi_give_dest_vasih -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4b442c42</Name> <!-- luis_normal taxi_give_dest_eason -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1df670ff</Name> <!-- luis_normal taxi_give_dest_suths -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>12894ad2</Name> <!-- luis_normal radio_req_sanjuan -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>57795746</Name> <!-- luis_normal solicit_bum_resp_neg -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5b2569c0</Name> <!-- luis_normal taxi_give_dest_suffo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f9394800</Name> <!-- luis_normal radio_req_plr -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>19093c25</Name> <!-- luis_normal taxi_give_dest_sthbo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6e7a9e09</Name> <!-- luis_normal taxi_give_dest_starj -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>56a7dffb</Name> <!-- luis_normal taxi_give_dest_richm -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dae980e8</Name> <!-- luis_normal taxi_give_dest_nowob -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3f29a09</Name> <!-- luis_normal taxi_give_dest_botu -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>71597eb</Name> <!-- luis_normal taxi_give_dest_thpres -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>e89b8bb0</Name> <!-- luis_normal taxi_give_dest_portu -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7d7ab941</Name> <!-- luis_normal taxi_give_dest_outl -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d1faa0f5</Name> <!-- luis_normal taxi_give_dest_norol -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1fba3964</Name> <!-- luis_normal taxi_give_dest_boule -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>b6e0081a</Name> <!-- luis_normal strip_ask_to_leave -->
+   <RawData>04 08 00</RawData> <!-- 04 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d068dfa9</Name> <!-- luis_normal taxi_give_dest_normy -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d6fda1b9</Name> <!-- luis_normal taxi_give_dest_nohol -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ff85c989</Name> <!-- luis_normal radio_req_tuffgong -->
+   <RawData>02 08 00</RawData> <!-- 02 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>170c680b</Name> <!-- luis_normal taxi_give_dest_midpe -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>76f3c7fd</Name> <!-- luis_normal taxi_give_dest_brdbb -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6b9f80e2</Name> <!-- luis_normal taxi_give_dest_midpa -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3141af93</Name> <!-- luis_normal taxi_give_dest_meadh -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>9e23a769</Name> <!-- luis_normal solicit_bum_resp_pos -->
+   <RawData>06 08 00</RawData> <!-- 06 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>28d9cff2</Name> <!-- luis_normal taxi_give_dest_ltbay -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5a9a11ad</Name> <!-- luis_normal taxi_give_dest_boab -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2e22e83d</Name> <!-- luis_normal taxi_give_dest_lefwo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>80a26137</Name> <!-- luis_normal taxi_give_dest_leape -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6db5c30b</Name> <!-- luis_normal taxi_give_dest_gelf -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a4ac485a</Name> <!-- luis_normal subway_journey_ask -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>f72b2023</Name> <!-- luis_normal taxi_give_dest_eislc -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>dc0d952c</Name> <!-- luis_normal taxi_give_dest_eahol -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>d84baf86</Name> <!-- luis_normal taxi_give_dest_chisl -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>93acf718</Name> <!-- luis_normal taxi_give_dest_berch -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>de8aaa86</Name> <!-- luis_normal taxi_give_dest_frogt -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3a62f574</Name> <!-- luis_normal taxi_give_dest_eshoo -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>769f95f7</Name> <!-- luis_normal taxi_change_dest -->
+   <RawData>05 08 00</RawData> <!-- 05 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>ba15588a</Name> <!-- luis_normal taxi_give_dest_alscf -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>49391e50</Name> <!-- luis_normal taxi_give_dest_actrr -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a2a1253e</Name> <!-- luis_normal taxi_give_dest_coisl -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>2fa8a77b</Name> <!-- luis_normal taxi_give_dest_hatga -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a69eef</Name> <!-- luis_normal taxi_give_dest_cith -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a29b53bd</Name> <!-- luis_normal taxi_give_dest_fisso -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6f4aa16f</Name> <!-- luis_normal start_car_panic -->
+   <RawData>0A 08 00</RawData> <!-- 10 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>a281b1e5</Name> <!-- luis_normal taxi_give_dest_insti -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>5ff0cf7e</Name> <!-- luis_normal radio_req_vibe -->
+   <RawData>03 08 00</RawData> <!-- 03 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7ed42e28</Name> <!-- luis_normal taxi_give_dest_bralg -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>6754d325</Name> <!-- luis_normal taxi_give_dest_dowtw -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>4bec8efe</Name> <!-- luis_normal taxi_give_dest_aldci -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>73b121d6</Name> <!-- luis_normal shoot -->
+   <RawData>28 08 00</RawData> <!-- 40 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>110dcdcb</Name> <!-- luis_normal taxi_give_dest_lowea -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>1cba8171</Name> <!-- luis_normal taxi_give_dest_cerhe -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>bdd6670e</Name> <!-- luis_normal taxi_give_dest_forsi -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>89ba01f7</Name> <!-- luis_normal taxi_give_dest_schol -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>3ba81fd1</Name> <!-- luis_normal taxi_give_dest_hobeh -->
+   <RawData>01 08 00</RawData> <!-- 01 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>7a775351</Name> <!-- luis_normal stay_down -->
+   <RawData>0F 08 00</RawData> <!-- 15 8 -->
+  </Item>
+  <Item type="ByteArray">
+   <Name>luis</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>luis_extras</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>luis_angry</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="ByteArray">
+   <Name>luis_normal</Name>
+   <RawData>00</RawData>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>0</Name>
+   <ContainerHash>gtaiv_ep2/luis</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>1</Name>
+   <ContainerHash>gtaiv_ep2/luis_extras</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>2</Name>
+   <ContainerHash>gtaiv_ep2/luis_angry_1</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>3</Name>
+   <ContainerHash>gtaiv_ep2/luis_angry_2</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>4</Name>
+   <ContainerHash>gtaiv_ep2/luis_normal_1</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>5</Name>
+   <ContainerHash>gtaiv_ep2/luis_normal_2</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>6</Name>
+   <ContainerHash>gtaiv_ep2/luis_normal_3</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>7</Name>
+   <ContainerHash>gtaiv_ep2/luis_normal_4</ContainerHash>
+  </Item>
+  <Item type="Container" ntOffset="0">
+   <Name>8</Name>
+   <ContainerHash>gtaiv_ep2/luis_normal_5</ContainerHash>
+  </Item>
+ </Items>
+</Dat4>
