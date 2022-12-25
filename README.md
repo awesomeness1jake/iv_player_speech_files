@@ -1,5 +1,5 @@
-# custom_audio
-Hopefully the provided files give a clearer idea to the original at simpsons2_audio
+# iv_player_speech_files
+Hopefully the provided files give a clearer idea to the original at [simpsons2_audio](https://github.com/awesomeness1jake/simpsons2_audio).
 
 # notes
 - You cannot have a "wavepack" named GTAIV it seems like the game will unload the audio immediately. (this is why it is gtaiv_base)
