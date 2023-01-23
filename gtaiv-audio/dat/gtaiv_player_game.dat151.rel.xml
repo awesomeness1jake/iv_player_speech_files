@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="7126027" />
+ <Items>
+  <Item type="PedVoiceGroup" ntOffset="0">
+   <Name>NIKO_PVG</Name>
+   <Unk00 value="0x70030100" />
+   <Unk01 value="94" />
+   <Unk02 value="57" />
+   <Unk03 value="245" />
+   <Full>
+    <Item>
+     <Name>NIKO_NORMAL</Name>
+     <Unk1 value="0" />
+     <Unk2 value="0" />
+    </Item>
+   </Full>
+ </Item>
+ <Item type="PedVoiceGroup" ntOffset="0">
+  <Name>JOHNNY_PVG</Name>
+  <Unk00 value="0x70030100" />
+  <Unk01 value="94" />
+  <Unk02 value="57" />
+  <Unk03 value="245" />
+  <Full>
+   <Item>
+    <Name>JOHNNY_NORMAL</Name>
+    <Unk1 value="0" />
+    <Unk2 value="0" />
+   </Item>
+  </Full>
+</Item>
+<Item type="PedVoiceGroup" ntOffset="0">
+ <Name>LUIS_PVG</Name>
+ <Unk00 value="0x70030100" />
+ <Unk01 value="94" />
+ <Unk02 value="57" />
+ <Unk03 value="245" />
+ <Full>
+  <Item>
+   <Name>LUIS_NORMAL</Name>
+   <Unk1 value="0" />
+   <Unk2 value="0" />
+  </Item>
+ </Full>
+</Item>
+</Items>
+</Dat151>
