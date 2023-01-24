@@ -1,11 +1,28 @@
 # iv_player_speech_files
-Custom speech for GTA V / FiveM.
+GTA IV Player Audio
 
 - If you want to use this, you need to export the audio from GTAIV.
 - No facial animations were included as that is a nightmare to figure out and "automate".
-- "NIKO" is the combined audio of "NIKO_01-15"
-- "JOHNNY" is the combined audio of "JOHNNY_01-15"
-- "LUIS" is the combined audio of "LUIS_01-15"
+- There are some "comments" in the speech xml.
 
-# notes
-- I combined all the speech data into "player_speech" and I have provided some of the individual ones.
+## Voices
+- NIKO
+- NIKO_ANGRY
+- NIKO_EXTRAS
+- NIKO_NORMAL
+- JOHNNY
+- JOHNNY_ANGRY
+- JOHNNY_EXTRAS
+- JOHNNY_NORMAL
+- LUIS
+- LUIS_ANGRY
+- LUIS_EXTRAS
+- LUIS_NORMAL
+
+## Ped Voice Groups
+- NIKO_PVG - Uses NIKO_NORMAL
+- JOHNNY_PVG - Uses JOHNNY_NORMAL
+- LUIS_PVG - Uses LUIS_NORMAL
+
+## Notes
+- I combined all the speech data into "player_speech" and provided some of the individual ones (mainly from testing).
