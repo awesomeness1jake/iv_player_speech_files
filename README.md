@@ -2,7 +2,7 @@
 GTA IV Player Audio
 
 - If you want to use this, you need to export the audio from GTAIV.
-- No facial animations were included as that is a nightmare to figure out and "automate".
+- No facial animations were made as that is a nightmare to figure out and "automate".
 - There are some "comments" in the speech xml.
 
 ## Voices
