@@ -25,4 +25,4 @@ GTA IV Player Audio
 - LUIS_PVG - Uses LUIS_NORMAL
 
 ## Notes
-- I combined all the speech data into "player_speech" and provided some of the individual ones (mainly from testing).
+- I combined all the speech data into "player_speech" as having multiple led to loading problems. I also provided some of the individual ones (mainly from testing).
